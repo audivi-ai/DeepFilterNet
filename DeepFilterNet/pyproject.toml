@@ -29,7 +29,7 @@ python = ">=3.8,<4.0"
 numpy = ">=1.22"
 loguru = ">=0.5"
 appdirs = "^1.4"
-requests = "^2.27"
+requests = "*"
 packaging = ">=23,<25"
 sympy = ">=1.6"
 soundfile = { version = ">=0.10,<0.13", optional = true }
