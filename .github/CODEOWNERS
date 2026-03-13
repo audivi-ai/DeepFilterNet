@@ -1,0 +1,14 @@
+# Default owners for all files
+* @bgdavidx @okurnitsov-coherent
+
+# Terraform / infrastructure
+terraform/ @bgdavidx @okurnitsov-coherent
+*.tf @bgdavidx @okurnitsov-coherent
+*.hcl @bgdavidx @okurnitsov-coherent
+
+# CI/CD
+.github/ @bgdavidx @okurnitsov-coherent
+
+# Secrets / environment config
+*.env @bgdavidx @okurnitsov-coherent
+.env* @bgdavidx @okurnitsov-coherent
